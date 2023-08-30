@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d7b1c10-4ab9-43c1-bd49-8867e38fbd11": {
+      "ProjectGuid": "4d7b1c10-4ab9-43c1-bd49-8867e38fbd11",
+      "DisplayName": "GradeBookWithNullAsSentinel",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

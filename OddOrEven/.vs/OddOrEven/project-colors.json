@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d10fe5f0-596f-4eef-adca-23621175ed38": {
+      "ProjectGuid": "d10fe5f0-596f-4eef-adca-23621175ed38",
+      "DisplayName": "OddOrEven",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

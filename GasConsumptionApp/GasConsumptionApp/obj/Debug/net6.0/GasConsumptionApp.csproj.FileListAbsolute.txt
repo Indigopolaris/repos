@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\bin\Debug\net6.0\GasConsumptionApp.exe
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\bin\Debug\net6.0\GasConsumptionApp.deps.json
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\bin\Debug\net6.0\GasConsumptionApp.runtimeconfig.json
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\bin\Debug\net6.0\GasConsumptionApp.dll
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\bin\Debug\net6.0\ref\GasConsumptionApp.dll
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\bin\Debug\net6.0\GasConsumptionApp.pdb
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\obj\Debug\net6.0\GasConsumptionApp.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\obj\Debug\net6.0\GasConsumptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\obj\Debug\net6.0\GasConsumptionApp.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\obj\Debug\net6.0\GasConsumptionApp.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\obj\Debug\net6.0\GasConsumptionApp.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\obj\Debug\net6.0\GasConsumptionApp.dll
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\obj\Debug\net6.0\ref\GasConsumptionApp.dll
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\obj\Debug\net6.0\GasConsumptionApp.pdb
+C:\Users\mmawi\source\repos\GasConsumptionApp\GasConsumptionApp\obj\Debug\net6.0\GasConsumptionApp.genruntimeconfig.cache

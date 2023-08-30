@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\bin\Debug\net6.0\GradeBookwithRectArray.exe
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\bin\Debug\net6.0\GradeBookwithRectArray.deps.json
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\bin\Debug\net6.0\GradeBookwithRectArray.runtimeconfig.json
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\bin\Debug\net6.0\GradeBookwithRectArray.dll
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\bin\Debug\net6.0\ref\GradeBookwithRectArray.dll
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\bin\Debug\net6.0\GradeBookwithRectArray.pdb
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\obj\Debug\net6.0\GradeBookwithRectArray.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\obj\Debug\net6.0\GradeBookwithRectArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\obj\Debug\net6.0\GradeBookwithRectArray.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\obj\Debug\net6.0\GradeBookwithRectArray.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\obj\Debug\net6.0\GradeBookwithRectArray.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\obj\Debug\net6.0\GradeBookwithRectArray.dll
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\obj\Debug\net6.0\ref\GradeBookwithRectArray.dll
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\obj\Debug\net6.0\GradeBookwithRectArray.pdb
+C:\Users\mmawi\source\repos\GradeBookwithRectArray\GradeBookwithRectArray\obj\Debug\net6.0\GradeBookwithRectArray.genruntimeconfig.cache

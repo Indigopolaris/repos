@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\bin\Debug\net6.0\NestedIfElseExample.exe
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\bin\Debug\net6.0\NestedIfElseExample.deps.json
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\bin\Debug\net6.0\NestedIfElseExample.runtimeconfig.json
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\bin\Debug\net6.0\NestedIfElseExample.dll
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\bin\Debug\net6.0\ref\NestedIfElseExample.dll
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\bin\Debug\net6.0\NestedIfElseExample.pdb
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\obj\Debug\net6.0\NestedIfElseExample.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\obj\Debug\net6.0\NestedIfElseExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\obj\Debug\net6.0\NestedIfElseExample.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\obj\Debug\net6.0\NestedIfElseExample.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\obj\Debug\net6.0\NestedIfElseExample.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\obj\Debug\net6.0\NestedIfElseExample.dll
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\obj\Debug\net6.0\ref\NestedIfElseExample.dll
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\obj\Debug\net6.0\NestedIfElseExample.pdb
+C:\Users\mmawi\source\repos\NestedIfElseExample\NestedIfElseExample\obj\Debug\net6.0\NestedIfElseExample.genruntimeconfig.cache

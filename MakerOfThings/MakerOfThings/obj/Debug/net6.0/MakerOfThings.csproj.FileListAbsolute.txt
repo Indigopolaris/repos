@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\bin\Debug\net6.0\MakerOfThings.exe
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\bin\Debug\net6.0\MakerOfThings.deps.json
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\bin\Debug\net6.0\MakerOfThings.runtimeconfig.json
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\bin\Debug\net6.0\MakerOfThings.dll
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\bin\Debug\net6.0\ref\MakerOfThings.dll
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\bin\Debug\net6.0\MakerOfThings.pdb
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\obj\Debug\net6.0\MakerOfThings.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\obj\Debug\net6.0\MakerOfThings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\obj\Debug\net6.0\MakerOfThings.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\obj\Debug\net6.0\MakerOfThings.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\obj\Debug\net6.0\MakerOfThings.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\obj\Debug\net6.0\MakerOfThings.dll
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\obj\Debug\net6.0\ref\MakerOfThings.dll
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\obj\Debug\net6.0\MakerOfThings.pdb
+C:\Users\mmawi\source\repos\MakerOfThings\MakerOfThings\obj\Debug\net6.0\MakerOfThings.genruntimeconfig.cache

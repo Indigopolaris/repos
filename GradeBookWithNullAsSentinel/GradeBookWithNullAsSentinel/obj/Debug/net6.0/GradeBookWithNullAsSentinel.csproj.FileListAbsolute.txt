@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\bin\Debug\net6.0\GradeBookWithNullAsSentinel.exe
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\bin\Debug\net6.0\GradeBookWithNullAsSentinel.deps.json
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\bin\Debug\net6.0\GradeBookWithNullAsSentinel.runtimeconfig.json
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\bin\Debug\net6.0\GradeBookWithNullAsSentinel.dll
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\bin\Debug\net6.0\ref\GradeBookWithNullAsSentinel.dll
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\bin\Debug\net6.0\GradeBookWithNullAsSentinel.pdb
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\obj\Debug\net6.0\GradeBookWithNullAsSentinel.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\obj\Debug\net6.0\GradeBookWithNullAsSentinel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\obj\Debug\net6.0\GradeBookWithNullAsSentinel.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\obj\Debug\net6.0\GradeBookWithNullAsSentinel.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\obj\Debug\net6.0\GradeBookWithNullAsSentinel.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\obj\Debug\net6.0\GradeBookWithNullAsSentinel.dll
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\obj\Debug\net6.0\ref\GradeBookWithNullAsSentinel.dll
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\obj\Debug\net6.0\GradeBookWithNullAsSentinel.pdb
+C:\Users\mmawi\source\repos\GradeBookWithNullAsSentinel\GradeBookWithNullAsSentinel\obj\Debug\net6.0\GradeBookWithNullAsSentinel.genruntimeconfig.cache

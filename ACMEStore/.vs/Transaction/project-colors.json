@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c59a6042-a924-484c-8650-ca55f29f8ef2": {
+      "ProjectGuid": "c59a6042-a924-484c-8650-ca55f29f8ef2",
+      "DisplayName": "Transaction",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

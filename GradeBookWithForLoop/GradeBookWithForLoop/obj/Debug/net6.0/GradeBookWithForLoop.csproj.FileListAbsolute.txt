@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\bin\Debug\net6.0\GradeBookWithForLoop.exe
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\bin\Debug\net6.0\GradeBookWithForLoop.deps.json
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\bin\Debug\net6.0\GradeBookWithForLoop.runtimeconfig.json
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\bin\Debug\net6.0\GradeBookWithForLoop.dll
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\bin\Debug\net6.0\ref\GradeBookWithForLoop.dll
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\bin\Debug\net6.0\GradeBookWithForLoop.pdb
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\obj\Debug\net6.0\GradeBookWithForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\obj\Debug\net6.0\GradeBookWithForLoop.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\obj\Debug\net6.0\GradeBookWithForLoop.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\obj\Debug\net6.0\GradeBookWithForLoop.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\obj\Debug\net6.0\GradeBookWithForLoop.dll
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\obj\Debug\net6.0\ref\GradeBookWithForLoop.dll
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\obj\Debug\net6.0\GradeBookWithForLoop.pdb
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\obj\Debug\net6.0\GradeBookWithForLoop.genruntimeconfig.cache
+C:\Users\mmawi\source\repos\GradeBookWithForLoop\GradeBookWithForLoop\obj\Debug\net6.0\GradeBookWithForLoop.csproj.AssemblyReference.cache

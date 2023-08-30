@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\Payroll\Payroll\bin\Debug\net6.0\Payroll.exe
+C:\Users\mmawi\source\repos\Payroll\Payroll\bin\Debug\net6.0\Payroll.deps.json
+C:\Users\mmawi\source\repos\Payroll\Payroll\bin\Debug\net6.0\Payroll.runtimeconfig.json
+C:\Users\mmawi\source\repos\Payroll\Payroll\bin\Debug\net6.0\Payroll.dll
+C:\Users\mmawi\source\repos\Payroll\Payroll\bin\Debug\net6.0\ref\Payroll.dll
+C:\Users\mmawi\source\repos\Payroll\Payroll\bin\Debug\net6.0\Payroll.pdb
+C:\Users\mmawi\source\repos\Payroll\Payroll\obj\Debug\net6.0\Payroll.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\Payroll\Payroll\obj\Debug\net6.0\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\Payroll\Payroll\obj\Debug\net6.0\Payroll.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\Payroll\Payroll\obj\Debug\net6.0\Payroll.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\Payroll\Payroll\obj\Debug\net6.0\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\Payroll\Payroll\obj\Debug\net6.0\Payroll.dll
+C:\Users\mmawi\source\repos\Payroll\Payroll\obj\Debug\net6.0\ref\Payroll.dll
+C:\Users\mmawi\source\repos\Payroll\Payroll\obj\Debug\net6.0\Payroll.pdb
+C:\Users\mmawi\source\repos\Payroll\Payroll\obj\Debug\net6.0\Payroll.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\bin\Debug\net6.0\PassingValues.exe
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\bin\Debug\net6.0\PassingValues.deps.json
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\bin\Debug\net6.0\PassingValues.runtimeconfig.json
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\bin\Debug\net6.0\PassingValues.dll
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\bin\Debug\net6.0\ref\PassingValues.dll
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\bin\Debug\net6.0\PassingValues.pdb
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\obj\Debug\net6.0\PassingValues.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\obj\Debug\net6.0\PassingValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\obj\Debug\net6.0\PassingValues.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\obj\Debug\net6.0\PassingValues.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\obj\Debug\net6.0\PassingValues.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\obj\Debug\net6.0\PassingValues.dll
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\obj\Debug\net6.0\ref\PassingValues.dll
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\obj\Debug\net6.0\PassingValues.pdb
+C:\Users\mmawi\source\repos\PassingValues\PassingValues\obj\Debug\net6.0\PassingValues.genruntimeconfig.cache

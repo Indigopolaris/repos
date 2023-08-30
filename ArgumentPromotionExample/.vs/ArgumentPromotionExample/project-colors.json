@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c60cf1f2-a5a6-42c5-9942-19051fafeee2": {
+      "ProjectGuid": "c60cf1f2-a5a6-42c5-9942-19051fafeee2",
+      "DisplayName": "ArgumentPromotionExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

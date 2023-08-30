@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\bin\Debug\net6.0\AccountExample.exe
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\bin\Debug\net6.0\AccountExample.deps.json
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\bin\Debug\net6.0\AccountExample.runtimeconfig.json
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\bin\Debug\net6.0\AccountExample.dll
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\bin\Debug\net6.0\ref\AccountExample.dll
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\bin\Debug\net6.0\AccountExample.pdb
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\obj\Debug\net6.0\AccountExample.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\obj\Debug\net6.0\AccountExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\obj\Debug\net6.0\AccountExample.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\obj\Debug\net6.0\AccountExample.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\obj\Debug\net6.0\AccountExample.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\obj\Debug\net6.0\AccountExample.dll
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\obj\Debug\net6.0\ref\AccountExample.dll
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\obj\Debug\net6.0\AccountExample.pdb
+C:\Users\mmawi\source\repos\TestingMethods\TestingMethods\obj\Debug\net6.0\AccountExample.genruntimeconfig.cache

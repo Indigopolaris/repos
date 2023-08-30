@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\bin\Debug\net6.0\OddOrEven.exe
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\bin\Debug\net6.0\OddOrEven.deps.json
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\bin\Debug\net6.0\OddOrEven.runtimeconfig.json
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\bin\Debug\net6.0\OddOrEven.dll
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\bin\Debug\net6.0\ref\OddOrEven.dll
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\bin\Debug\net6.0\OddOrEven.pdb
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.dll
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\obj\Debug\net6.0\ref\OddOrEven.dll
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.pdb
+C:\Users\mmawi\source\repos\OddOrEven\OddOrEven\obj\Debug\net6.0\OddOrEven.genruntimeconfig.cache

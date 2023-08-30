@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\Multiples\Multiples\bin\Debug\net6.0\Multiples.exe
+C:\Users\mmawi\source\repos\Multiples\Multiples\bin\Debug\net6.0\Multiples.deps.json
+C:\Users\mmawi\source\repos\Multiples\Multiples\bin\Debug\net6.0\Multiples.runtimeconfig.json
+C:\Users\mmawi\source\repos\Multiples\Multiples\bin\Debug\net6.0\Multiples.dll
+C:\Users\mmawi\source\repos\Multiples\Multiples\bin\Debug\net6.0\ref\Multiples.dll
+C:\Users\mmawi\source\repos\Multiples\Multiples\bin\Debug\net6.0\Multiples.pdb
+C:\Users\mmawi\source\repos\Multiples\Multiples\obj\Debug\net6.0\Multiples.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\Multiples\Multiples\obj\Debug\net6.0\Multiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\Multiples\Multiples\obj\Debug\net6.0\Multiples.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\Multiples\Multiples\obj\Debug\net6.0\Multiples.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\Multiples\Multiples\obj\Debug\net6.0\Multiples.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\Multiples\Multiples\obj\Debug\net6.0\Multiples.dll
+C:\Users\mmawi\source\repos\Multiples\Multiples\obj\Debug\net6.0\ref\Multiples.dll
+C:\Users\mmawi\source\repos\Multiples\Multiples\obj\Debug\net6.0\Multiples.pdb
+C:\Users\mmawi\source\repos\Multiples\Multiples\obj\Debug\net6.0\Multiples.genruntimeconfig.cache

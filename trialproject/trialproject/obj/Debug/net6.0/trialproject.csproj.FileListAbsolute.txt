@@ -1,0 +1,5 @@
+C:\Users\mmawi\source\repos\trialproject\trialproject\obj\Debug\net6.0\trialproject.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\trialproject\trialproject\obj\Debug\net6.0\trialproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\trialproject\trialproject\obj\Debug\net6.0\trialproject.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\trialproject\trialproject\obj\Debug\net6.0\trialproject.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\trialproject\trialproject\obj\Debug\net6.0\trialproject.csproj.CoreCompileInputs.cache

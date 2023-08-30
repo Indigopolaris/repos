@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\bin\Debug\net6.0\InvoiceApplication.exe
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\bin\Debug\net6.0\InvoiceApplication.deps.json
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\bin\Debug\net6.0\InvoiceApplication.runtimeconfig.json
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\bin\Debug\net6.0\InvoiceApplication.dll
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\bin\Debug\net6.0\ref\InvoiceApplication.dll
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\bin\Debug\net6.0\InvoiceApplication.pdb
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\obj\Debug\net6.0\InvoiceApplication.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\obj\Debug\net6.0\InvoiceApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\obj\Debug\net6.0\InvoiceApplication.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\obj\Debug\net6.0\InvoiceApplication.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\obj\Debug\net6.0\InvoiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\obj\Debug\net6.0\InvoiceApplication.dll
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\obj\Debug\net6.0\ref\InvoiceApplication.dll
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\obj\Debug\net6.0\InvoiceApplication.pdb
+C:\Users\mmawi\source\repos\InvoiceApplication\InvoiceApplication\obj\Debug\net6.0\InvoiceApplication.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\bin\Debug\net6.0\ChangeCalculator.exe
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\bin\Debug\net6.0\ChangeCalculator.deps.json
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\bin\Debug\net6.0\ChangeCalculator.runtimeconfig.json
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\bin\Debug\net6.0\ChangeCalculator.dll
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\bin\Debug\net6.0\ref\ChangeCalculator.dll
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\bin\Debug\net6.0\ChangeCalculator.pdb
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\net6.0\ChangeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\net6.0\ChangeCalculator.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\net6.0\ChangeCalculator.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\net6.0\ChangeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\net6.0\ChangeCalculator.dll
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\net6.0\ref\ChangeCalculator.dll
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\net6.0\ChangeCalculator.pdb
+C:\Users\mmawi\source\repos\ChangeCalculator\ChangeCalculator\obj\Debug\net6.0\ChangeCalculator.genruntimeconfig.cache

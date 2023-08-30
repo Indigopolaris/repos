@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\bin\Debug\net6.0\ValueOfCoins.exe
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\bin\Debug\net6.0\ValueOfCoins.deps.json
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\bin\Debug\net6.0\ValueOfCoins.runtimeconfig.json
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\bin\Debug\net6.0\ValueOfCoins.dll
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\bin\Debug\net6.0\ref\ValueOfCoins.dll
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\bin\Debug\net6.0\ValueOfCoins.pdb
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\obj\Debug\net6.0\ValueOfCoins.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\obj\Debug\net6.0\ValueOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\obj\Debug\net6.0\ValueOfCoins.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\obj\Debug\net6.0\ValueOfCoins.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\obj\Debug\net6.0\ValueOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\obj\Debug\net6.0\ValueOfCoins.dll
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\obj\Debug\net6.0\ref\ValueOfCoins.dll
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\obj\Debug\net6.0\ValueOfCoins.pdb
+C:\Users\mmawi\source\repos\ValueOfCoins\ValueOfCoins\obj\Debug\net6.0\ValueOfCoins.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\obj\Debug\net6.0\ScoreFinder.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\obj\Debug\net6.0\ScoreFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\obj\Debug\net6.0\ScoreFinder.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\obj\Debug\net6.0\ScoreFinder.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\obj\Debug\net6.0\ScoreFinder.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\bin\Debug\net6.0\ScoreFinder.exe
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\bin\Debug\net6.0\ScoreFinder.deps.json
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\bin\Debug\net6.0\ScoreFinder.runtimeconfig.json
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\bin\Debug\net6.0\ScoreFinder.dll
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\bin\Debug\net6.0\ref\ScoreFinder.dll
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\bin\Debug\net6.0\ScoreFinder.pdb
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\obj\Debug\net6.0\ScoreFinder.dll
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\obj\Debug\net6.0\ref\ScoreFinder.dll
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\obj\Debug\net6.0\ScoreFinder.pdb
+C:\Users\mmawi\source\repos\ScoreFinder\ScoreFinder\obj\Debug\net6.0\ScoreFinder.genruntimeconfig.cache

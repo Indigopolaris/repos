@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e25560dd-599b-4e88-bd91-d262519ee9c0": {
+      "ProjectGuid": "e25560dd-599b-4e88-bd91-d262519ee9c0",
+      "DisplayName": "GradeBookWithArray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

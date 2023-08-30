@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\bin\Debug\net6.0\MeanMatch.exe
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\bin\Debug\net6.0\MeanMatch.deps.json
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\bin\Debug\net6.0\MeanMatch.runtimeconfig.json
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\bin\Debug\net6.0\MeanMatch.dll
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\bin\Debug\net6.0\ref\MeanMatch.dll
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\bin\Debug\net6.0\MeanMatch.pdb
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\obj\Debug\net6.0\MeanMatch.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\obj\Debug\net6.0\MeanMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\obj\Debug\net6.0\MeanMatch.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\obj\Debug\net6.0\MeanMatch.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\obj\Debug\net6.0\MeanMatch.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\obj\Debug\net6.0\MeanMatch.dll
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\obj\Debug\net6.0\ref\MeanMatch.dll
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\obj\Debug\net6.0\MeanMatch.pdb
+C:\Users\mmawi\source\repos\MeanMatch\MeanMatch\obj\Debug\net6.0\MeanMatch.genruntimeconfig.cache

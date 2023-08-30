@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07887536-ffae-4b1c-b21f-5a665b1d3b6c": {
+      "ProjectGuid": "07887536-ffae-4b1c-b21f-5a665b1d3b6c",
+      "DisplayName": "GasConsumptionApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

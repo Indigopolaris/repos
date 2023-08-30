@@ -1,0 +1,15 @@
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\bin\Debug\net6.0\TestingOperations.exe
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\bin\Debug\net6.0\TestingOperations.deps.json
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\bin\Debug\net6.0\TestingOperations.runtimeconfig.json
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\bin\Debug\net6.0\TestingOperations.dll
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\bin\Debug\net6.0\ref\TestingOperations.dll
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\bin\Debug\net6.0\TestingOperations.pdb
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\obj\Debug\net6.0\TestingOperations.csproj.AssemblyReference.cache
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\obj\Debug\net6.0\TestingOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\obj\Debug\net6.0\TestingOperations.AssemblyInfoInputs.cache
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\obj\Debug\net6.0\TestingOperations.AssemblyInfo.cs
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\obj\Debug\net6.0\TestingOperations.csproj.CoreCompileInputs.cache
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\obj\Debug\net6.0\TestingOperations.dll
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\obj\Debug\net6.0\ref\TestingOperations.dll
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\obj\Debug\net6.0\TestingOperations.pdb
+C:\Users\mmawi\source\repos\TestingOperations\TestingOperations\obj\Debug\net6.0\TestingOperations.genruntimeconfig.cache

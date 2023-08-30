@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11fd7a30-8339-454d-864f-c58cc3345d37": {
+      "ProjectGuid": "11fd7a30-8339-454d-864f-c58cc3345d37",
+      "DisplayName": "MethodOverLoadingExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
