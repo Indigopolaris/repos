@@ -12,11 +12,11 @@ public class TestingOperations
         // useful if decimals are involved in the result but not the initial varible or vise versa
         if (remainder > 0)
         {
-            Console.WriteLine("its odd bruh");
+            Console.WriteLine("its odd ");
         }
         if (remainder == 0)
         {
-            Console.WriteLine("its even bruh");
+            Console.WriteLine("its even");
         }
 
 
