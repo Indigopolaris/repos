@@ -113,5 +113,3 @@ public class Invoice
         Console.WriteLine($"Invoice Total: {invTotal}"); //displays the final total
     }
 }
-// I could not get the product code and quantity loop to work, the player returns the error that product code cannot be null when ctrl z is entered
-// instead of moving to the next method. What did i do wrong?
